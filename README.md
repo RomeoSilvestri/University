@@ -13,6 +13,37 @@ The thesis will focus on the development of an application for the real estate m
 
 In summary, this work can represent a contribution to improving the understanding of the real estate market and supporting investment decisions.
 
-## Quality assessment in the Statistical Register construction process
+## Quality Assessment in the Statistical Register Construction Process
 ### ISTAT report - R - June 2022
 The article discusses the importance of using administrative records for statistical purposes, and the need for quality evaluation tools to measure the accuracy and effectiveness of these records. In this context, the article examines the quality-framework of Statistics Austria presented in the Austrian Journal of Statistics in 2016 and proposes a possible application of this framework to the Italian Integrated System of Registries (SIR). The Statistics Austria quality-framework is a complex system consisting of three progressive phases: input, process, and output. The quality evaluation is carried out for each administrative record at the single-variable level, and four quality dimensions are identified: documentation, pre-processing, external sources, and imputation. The article focuses on the quality indicator q.j for the first phase of the framework.
+
+## Database Construction on NBA Games
+### SQL (MySQL), NoSQL (MongoDB) - May 2022
+
+
+## Robust Clustering on Italian Provinces
+### R - Dicember 2021
+
+
+## Text Mining on Rock Sub-Genres
+### R - June 2021
+
+
+## Parallel Clustering on a Network of Molecules
+### Java, Spark - January 2021
+
+
+## The Effect of Migration on Population Dynamics with Application to Italian Provinces
+### Bachelor's Thesis - R - October 2020
+
+
+## Analysis of the Social Mobility of Graduates in Italy
+### SAS - June 2020
+
+
+## Survival Analysis for Covid-19
+### R - 
+
+
+## Sampling fo Exit Poll
+### -
