@@ -59,6 +59,7 @@ For the actual case study, a demographic dataset sourced from the ISTAT website 
 
 ## Survival Analysis for Covid-19
 ### R - May 2020
+Starting from the Covid-19 dataset, an analysis was conducted to examine the virus trend during the period of January-February 2020 in three different Asian countries: Japan, South Korea, and Hong Kong. The objective of the study is to investigate the impact of Covid-19 in some representative countries neighboring China during the initial months of the epidemic, in order to gain insights into the progression of the virus across different age and gender groups, and the corresponding response of these nations.
 
 
 ## Sampling for Exit Poll
