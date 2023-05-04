@@ -55,6 +55,7 @@ For the actual case study, a demographic dataset sourced from the ISTAT website 
 
 ## Analysis of the Social Mobility of Graduates in Italy
 ### SAS - June 2020
+The aim of this study is to assess the social mobility of Italian high school graduates, using data from ISTAT on the class of 2015. Social mobility is defined as a change in social status in terms of income, education, and status. To measure it, a variable for the initial and final social class is constructed based on the conditions before and four years after graduation. The study also evaluates the differences in terms of employment, university education, and social emancipation among the different categories of the subject's initial class. In summary, the goal is to verify the existence and intensity of social mobility and to determine whether the initial social class influences one's career and educational path.
 
 
 ## Survival Analysis for Covid-19
