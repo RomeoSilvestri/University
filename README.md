@@ -15,11 +15,13 @@ In summary, this work can represent a contribution to improving the understandin
 
 ## Quality Assessment in the Statistical Register Construction Process
 ### ISTAT report - R - June 2022
-The article discusses the importance of using administrative records for statistical purposes, and the need for quality evaluation tools to measure the accuracy and effectiveness of these records. In this context, the article examines the quality-framework of Statistics Austria presented in the Austrian Journal of Statistics in 2016 and proposes a possible application of this framework to the Italian Integrated System of Registries (SIR). The Statistics Austria quality-framework is a complex system consisting of three progressive phases: input, process, and output. The quality evaluation is carried out for each administrative record at the single-variable level, and four quality dimensions are identified: documentation, pre-processing, external sources, and imputation. The article focuses on the quality indicator q.j for the first phase of the framework.
+The article discusses the importance of using administrative records for statistical purposes, and the need for quality evaluation tools to measure the accuracy and effectiveness of these records. In this context, the article examines the quality-framework of Statistics Austria presented in the Austrian Journal of Statistics in 2016 and proposes a possible application of this framework to the Italian Integrated System of Registries (SIR). The Statistics Austria quality-framework is a complex system consisting of three progressive phases: input, process, and output. The quality evaluation is carried out for each administrative record at the single-variable level, and four quality dimensions are identified: documentation, pre-processing, external sources, and imputation. The article focuses on the quality indicator for the first phase of the framework.
 
 ## Database Construction on NBA Games
 ### SQL (MySQL), NoSQL (MongoDB) - May 2022
 
+This work is based on the construction and interrogation of a database on NBA games between 2004 and 2021. The five tables that make up the database are downloaded from Kaggle at: [link text](https://www.kaggle.com/datasets/nathanlauga/nba-games).
+The queries were proposed in order to answer possible questions of interest that may be asked of the database.
 
 ## Parallel Clustering on a Network of Molecules
 ### Java, Spark - January 2022
