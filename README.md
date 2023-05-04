@@ -19,7 +19,6 @@ The article discusses the importance of using administrative records for statist
 
 ## Database Construction on NBA Games
 ### SQL (MySQL), NoSQL (MongoDB) - May 2022
-
 This project is based on the construction and interrogation of a database on NBA games between 2004 and 2021. The 5 tables that make up the database are downloaded from Kaggle at: [https://www.kaggle.com/datasets/nathanlauga/nba-games](https://www.kaggle.com/datasets/nathanlauga/nba-games).
 The queries were proposed in order to answer possible questions of interest that may be asked of the database.
 
@@ -32,6 +31,8 @@ I articulated the work by dividing it into 4 phases:
 
 ## Parallel Clustering on a Network of Molecules
 ### Java, Spark - January 2022
+The aim of the project is to do a clustering on a network of PPI-type molecules using the algorithm of Girvan and Newmans based on the calculation of Edge-Betweenness. The approach used is Map-Reduce and refers to the Apache Spark framework. The PPI network is a network that represents the interaction between proteins, it contains arcs and nodes to describe the relationship between the proteins; in this specific case the nodes represent the proteins and the arcs the relationships between them.
+Clustering is useful to search for groups of proteins: proteins in the same group will have stronger relationships with each other and proteins in different groups will have a weaker relationship.
 
 
 ## Robust Clustering on Italian Provinces
