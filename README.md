@@ -41,6 +41,7 @@ Robust clustering models are contrasted with non-robust models that rely on a fi
 - Theoretical level
 - Simulation
 - Real-life case study
+
 For the actual case study, a demographic dataset sourced from the ISTAT website was utilized, encompassing eight distinct demographic indicators recorded in 2019 across 107 Italian provinces.
 
 
