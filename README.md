@@ -21,16 +21,16 @@ The article discusses the importance of using administrative records for statist
 ### SQL (MySQL), NoSQL (MongoDB) - May 2022
 
 
+## Parallel Clustering on a Network of Molecules
+### Java, Spark - January 2022
+
+
 ## Robust Clustering on Italian Provinces
 ### R - Dicember 2021
 
 
 ## Text Mining on Rock Sub-Genres
 ### R - June 2021
-
-
-## Parallel Clustering on a Network of Molecules
-### Java, Spark - January 2021
 
 
 ## The Effect of Migration on Population Dynamics with Application to Italian Provinces
@@ -42,8 +42,8 @@ The article discusses the importance of using administrative records for statist
 
 
 ## Survival Analysis for Covid-19
-### R - 
+### R - May 2020
 
 
-## Sampling fo Exit Poll
-### -
+## Sampling for Exit Poll
+### R - June 2019
