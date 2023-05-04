@@ -37,6 +37,11 @@ Clustering is useful to search for groups of proteins: proteins in the same grou
 
 ## Robust Clustering on Italian Provinces
 ### R - Dicember 2021
+Robust clustering models are contrasted with non-robust models that rely on a finite mixture of Gaussian components. Specifically, the tclust and mclust R-packages are compared. The comparison is conducted in three different ways:
+- Theoretical level
+- Simulation
+- Real-life case study
+For the actual case study, a demographic dataset sourced from the ISTAT website was utilized, encompassing eight distinct demographic indicators recorded in 2019 across 107 Italian provinces.
 
 
 ## Text Mining on Rock Sub-Genres
