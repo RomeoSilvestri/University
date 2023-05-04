@@ -63,3 +63,4 @@ For the actual case study, a demographic dataset sourced from the ISTAT website 
 
 ## Sampling for Exit Poll
 ### R - June 2019
+In this paper, a straightforward hypothetical sampling plan is presented for an exit-poll survey designed for the upcoming European elections in Italy, scheduled for May 26th, 2019.
