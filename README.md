@@ -20,8 +20,13 @@ The article discusses the importance of using administrative records for statist
 ## Database Construction on NBA Games
 ### SQL (MySQL), NoSQL (MongoDB) - May 2022
 
-This work is based on the construction and interrogation of a database on NBA games between 2004 and 2021. The 5 tables that make up the database are downloaded from Kaggle at: [https://www.kaggle.com/datasets/nathanlauga/nba-games](https://www.kaggle.com/datasets/nathanlauga/nba-games).\n
+This work is based on the construction and interrogation of a database on NBA games between 2004 and 2021. The 5 tables that make up the database are downloaded from Kaggle at: [https://www.kaggle.com/datasets/nathanlauga/nba-games](https://www.kaggle.com/datasets/nathanlauga/nba-games).
 The queries were proposed in order to answer possible questions of interest that may be asked of the database.
+I articulated the work by dividing it into four phases:
+- Construction of the relational database: MySQL WorkBench is used to define the tables, their identification keys and the relationships between tables
+- Querying the SQL database
+- Query optimisation
+- Construction of the non-relational database: MongoDB is used to define the corresponding non-relational database and the respective queries, which are then compared
 
 
 ## Parallel Clustering on a Network of Molecules
