@@ -25,7 +25,7 @@ The queries were proposed in order to answer possible questions of interest that
 I articulated the work by dividing it into 4 phases:
 - Construction of the relational database: MySQL WorkBench is used to define the tables, their identification keys and the relationships between tables
 - Querying the SQL database
-- Query optimisation
+- Query optimization
 - Construction of the non-relational database: MongoDB is used to define the corresponding non-relational database and the respective queries, which are then compared
 
 
@@ -51,6 +51,15 @@ For the actual case study, a demographic dataset sourced from the ISTAT website 
 
 ## The Effect of Migration on Population Dynamics with Application to Italian Provinces
 ### Bachelor's Thesis - R - October 2020
+To understand the phenomenon of migration movements, it is essential to first define what is meant by migration, as there can be various specifications, each with its own characteristics and associated effects. According to Istat, the most relevant migration events at the demographic level are those, treated as flow data, that coincide with registrations or cancellations from the registry office due to a change of residence. Migration therefore has an impact on the size and structure of the resident population by age and gender; it also has economic, social, and cultural implications for the territories concerned.
+
+Migration movements occur between political or administrative territorial areas, whose boundaries must be well defined. In general, internal migrations within national borders (for example, between municipalities, provinces, or regions) are distinguished from external migrations, the so-called international migrations.
+
+While immigration and emigration can be considered phenomena associated respectively with natality and mortality regarding the introduction and exclusion of a subject from a population, there are substantial differences. Natality and mortality are, in fact, the endogenous determinants of changes in the age structure of a population, while migrations are not necessary events and are part of a more complex context that sometimes concerns distinct populations with their own peculiarities and attitudes.
+
+In almost all cases, immigrations and emigrations have a more marginal role in demography than their natural counterparts, but their influence, often significant, cannot be ignored. In this text, the effects of international migrations due to a change of residence on the main demographic dynamics, such as fertility, natality, and age structure of a population, will be analyzed in particular. To do this, synthetic rates and indicators will be used to encompass specific aspects relevant to the description of a population. Then, part of what has been discussed theoretically will be applied to the case of Italian provinces, using some simple linear and generalized linear regression models. The approach used will always be for contemporaneous rather than cohort of births. 
+
+In conclusion, criticisms, reflections, and possible improvements will be left for those who will study this topic in the future.
 
 
 ## Analysis of the Social Mobility of Graduates in Italy
