@@ -37,7 +37,7 @@ Clustering is useful to search for groups of proteins: proteins in the same grou
 
 ## Robust Clustering on Italian Provinces
 ### R - Dicember 2021
-Robust clustering models are contrasted with non-robust models that rely on a finite mixture of Gaussian components. Specifically, the tclust and mclust R-packages are compared. The comparison is conducted in three different ways:
+Robust clustering models are contrasted with non-robust models that rely on a finite mixture of Gaussian components. Specifically, the tclust and mclust R-packages are compared. The comparison is conducted in 3 different ways:
 - Theoretical level
 - Simulation
 - Real-life case study
@@ -47,11 +47,18 @@ For the actual case study, a demographic dataset sourced from the ISTAT website 
 
 ## Text Mining on Rock Sub-Genres
 ### R - June 2021
+The objective of this project is to analyze the disparities in lyrics across various rock sub-genres including Folk, Glam, Grunge, Punk, Alternative, and Progressive. The approach consists of 4 main sections:
+- Pre-Processing
+- Exploratory Analysis & Sentiment Analysis
+- Topic Modeling with LDA
+- Predictive Models: Naive Bayes, Random Forest, SVM
+
+Initially, the aim is to examine the similarities and differences between lyrics within these sub-genres, both qualitatively and quantitatively, using text mining techniques to identify the positive and negative connotations of words from the lyrics. The primary objective is to develop models that predict the sub-genre based on the analyzed text, and assess their predictive performance in terms of accuracy.
 
 
 ## The Effect of Migration on Population Dynamics with Application to Italian Provinces
 ### Bachelor's Thesis - R - October 2020
-To understand the phenomenon of migration movements, it is essential to first define what is meant by migration, as there can be various specifications, each with its own characteristics and associated effects. According to Istat, the most relevant migration events at the demographic level are those, treated as flow data, that coincide with registrations or cancellations from the registry office due to a change of residence. Migration therefore has an impact on the size and structure of the resident population by age and gender; it also has economic, social, and cultural implications for the territories concerned.
+To understand the phenomenon of migration movements, it is essential to first define what is meant by migration, as there can be various specifications, each with its own characteristics and associated effects. According to ISTAT, the most relevant migration events at the demographic level are those, treated as flow data, that coincide with registrations or cancellations from the registry office due to a change of residence. Migration therefore has an impact on the size and structure of the resident population by age and gender; it also has economic, social, and cultural implications for the territories concerned.
 
 Migration movements occur between political or administrative territorial areas, whose boundaries must be well defined. In general, internal migrations within national borders (for example, between municipalities, provinces, or regions) are distinguished from external migrations, the so-called international migrations.
 
@@ -64,7 +71,7 @@ In conclusion, criticisms, reflections, and possible improvements will be left f
 
 ## Analysis of the Social Mobility of Graduates in Italy
 ### SAS - June 2020
-The aim of this study is to assess the social mobility of Italian high school graduates, using data from ISTAT on the class of 2015. Social mobility is defined as a change in social status in terms of income, education, and status. To measure it, a variable for the initial and final social class is constructed based on the conditions before and four years after graduation. The study also evaluates the differences in terms of employment, university education, and social emancipation among the different categories of the subject's initial class. In summary, the goal is to verify the existence and intensity of social mobility and to determine whether the initial social class influences one's career and educational path.
+The aim of this study is to assess the social mobility of Italian high school graduates, using data from ISTAT on the class of 2015. Social mobility is defined as a change in social status in terms of income, education, and status. To measure it, a variable for the initial and final social class is constructed based on the conditions before and 4 years after graduation. The study also evaluates the differences in terms of employment, university education, and social emancipation among the different categories of the subject's initial class. In summary, the goal is to verify the existence and intensity of social mobility and to determine whether the initial social class influences one's career and educational path.
 
 
 ## Survival Analysis for Covid-19
