@@ -1,0 +1,13 @@
+db.ranking.aggregate([
+    {$match:{W_PCT:{$gt:0.5}}},
+    {$group:{_id:"$TEAM_ID",TOT:{$count:{}}}},
+    {$lookup:{
+        from:"teams",
+        localField:"_id",
+        foreignField:"TEAM_ID",
+        as:"teams"
+    }},
+    {$unwind:"$teams"},
+    {$project:{"NICKNAME":"$teams.NICKNAME",TOT:1,_id:0}},
+    {$sort:{TOT:-1}}
+])
