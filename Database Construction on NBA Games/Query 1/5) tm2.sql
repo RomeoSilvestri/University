@@ -1,8 +1,0 @@
-SELECT CITY, NICKNAME 
-FROM teams t
-WHERE TEAM_ID IN (SELECT TEAM_ID
-				  FROM players
-				  WHERE PLAYER_ID IN (SELECT PLAYER_ID
-									  FROM games_details
-									  WHERE PTS>60))
-ORDER BY CITY
